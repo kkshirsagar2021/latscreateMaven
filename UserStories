@@ -1,0 +1,20 @@
+User Stories 
+
+1. As a norml user, I am able to register to amazon.in ---- RAJESHWAR
+2. As an amazon user, I am able to login to website --- AFROJ
+3. As an amazon user, I am able to search macbook pro and add it to cart ---- VRUSALI
+4. As an amazon user, I am able to see no. of items added to cart ---- SUMEDH
+5. As an amazon user, I am able to view recently browsed items --- KESHAV
+6. As an amazon user, I am able to shop by category (mobile & computers --> laptops) ---   ASIF
+7. As an amazon user, I am able to log out from the website --- PALLAVI
+8. As an amazon user, I am able to add new address and edit the same -- VASUKI
+
+Created branches for specific user
+ASIF - asbranch
+AFROJ - aibranch
+KESHAV- ksbranch
+SUMEDH - spbranch
+PALLAVI - psbranch
+VRUSALI - vkbranch
+
+
